@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS, Node JS, Next JS, Spring Boot**
 
-- 📝 I regularly write articles on [atomdyno.com](atomdyno.com)
+- 📝 I regularly write articles on [atomdyno.com](https://atomdyno.com)
 
 - 💬 Ask me about **Flutter, Leetcode**
 
