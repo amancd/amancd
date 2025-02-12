@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">A Software Developer From India</h3>
 
-- 🔭 I’m currently working on **Portfolio Website**
-
 - 🌱 I’m currently learning **React JS, Node JS, Next JS, Spring Boot**
 
-- 📝 I regularly write articles on [atomdyno.com](https://atomdyno.com)
+- 📝 Portfolio - [atomdyno.com](https://atomdyno.com)
 
 - 💬 Ask me about **Flutter, Leetcode**
 
