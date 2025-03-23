@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React JS, Node JS, Next JS, Spring Boot**
 
-- 📝 Portfolio - [atomdyno.com](https://atomdyno.com)
+- 📝 Portfolio - [wpaman.com](https://wpaman.com)
 
 - 💬 Ask me about **Flutter, Leetcode**
 
