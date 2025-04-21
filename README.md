@@ -14,7 +14,6 @@
 </p>
 
 <p>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=atomdyno&theme=black&border=border&animated=true" alt="LeetCode Badges" style="margin-right: 10px;"/> 
   <img src="https://leetcard.jacoblin.cool/atomdyno?theme=dark&font=Baloo%20Da%202&ext=heatmap" alt="Leetcode stats"/>
 </p>
 
