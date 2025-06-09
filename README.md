@@ -5,7 +5,7 @@
 
 - 📝 Portfolio - [wpaman.com](https://wpaman.com)
 
-- 💬 Ask me about **Flutter, Next.js, Machine Learning, React**
+- 💬 Ask me about **Flutter, Python, Next.js, Data Structures & Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
