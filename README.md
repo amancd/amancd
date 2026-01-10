@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">SDE I @Tap Invest</h3>
 
-- 🌱 Skilled In Mobile Engineering**
+- 🌱 Skilled In Mobile Engineering
 
 - 💬 Ask me about **Flutter, Python, Spring Boot, Data Structures & Algorithms**
 
