@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">A Software Developer From India</h3>
+<h3 align="center">SDE I @Tap Invest</h3>
 
-- 🌱 I’m currently learning **React JS, Node JS, Next JS, Spring Boot**
+- 🌱 Skilled In Mobile Engineering**
 
-- 📝 Portfolio - [wpaman.com](https://wpaman.com)
-
-- 💬 Ask me about **Flutter, Python, Next.js, Data Structures & Algorithms**
+- 💬 Ask me about **Flutter, Python, Spring Boot, Data Structures & Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +12,7 @@
 </p>
 
 <p>
-  <img src="https://leetcard.jacoblin.cool/atomdyno?theme=dark&font=Baloo%20Da%202&ext=heatmap" alt="Leetcode stats"/>
+  <img src="https://leetcard.jacoblin.cool/amxn_dev?theme=dark&font=Baloo%20Da%202&ext=heatmap" alt="Leetcode stats"/>
 </p>
 
 
