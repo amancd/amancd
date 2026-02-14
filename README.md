@@ -1,5 +1,7 @@
-# 💫 About Me:
-SDE 1 at Tap Invest<br>Love to implement End to end project and <br>work in fast paced environment<br>Shipping quality code, vibe code cleaner<br>
+# About Me:
+Software Development Engineer (SDE 1) at Tap Invest<br>
+I enjoy owning features end-to-end and thriving in fast-moving teams.<br>
+Committed to delivering production-ready solutions with clean, maintainable code.
 
 
 ## 🌐 Socials:
