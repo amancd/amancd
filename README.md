@@ -1,126 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">SDE I @Tap Invest</h3>
-
-- 🌱 Skilled In Mobile Engineering
-
-- 💬 Ask me about **Flutter, Python, Spring Boot, Data Structures & Algorithms**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/u/amxn_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amxn_dev" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/atomdyno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atomdyno" height="30" width="40" /></a>
-</p>
-
-<p>
-  <img src="https://leetcard.jacoblin.cool/amxn_dev?theme=dark&font=Baloo%20Da%202&ext=heatmap" alt="Leetcode stats"/>
-</p>
+# 💫 About Me:
+SDE 1 at Tap Invest<br>Love to implement End to end project and <br>work in fast paced environment<br>Shipping quality code, vibe code cleaner<br>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<table>
-  <tr>
-    <td align="left" width="100">
-      <b>Programming:</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.programiz.com/c-programming" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.learncpp.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" />
-      </a>
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="100">
-      <b>Web Technologies:</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" />
-      </a>
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" />
-      </a>
-      <br>HTML5
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="100">
-      <b>Tools:</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.jenkins.io/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48" />
-      </a>
-      <br>Jenkins
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" />
-      </a>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" />
-      </a>
-      <br>GCP
-    </td>
-  </tr>
-</table>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-singh-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imamanwp@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amancd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=amancd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amancd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=amancd&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
